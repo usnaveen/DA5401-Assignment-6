@@ -1,6 +1,4 @@
-content = """# Assignment 6: Imputation via Regression for Missing Data
-
-**Student Name:** NAVEEN US
+**Name:** NAVEEN US
 
 **Roll Number:** DA25M020
 
